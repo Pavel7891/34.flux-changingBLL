@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/34.flux-changingBLL/static/css/main.27f3226b.css",
+    "main.js": "/34.flux-changingBLL/static/js/main.288a8597.js",
+    "index.html": "/34.flux-changingBLL/index.html",
+    "main.27f3226b.css.map": "/34.flux-changingBLL/static/css/main.27f3226b.css.map",
+    "main.288a8597.js.map": "/34.flux-changingBLL/static/js/main.288a8597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f3226b.css",
+    "static/js/main.288a8597.js"
+  ]
+}
